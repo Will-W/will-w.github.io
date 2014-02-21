@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-tagline: Me
+tagline: Will Wykeham
 group: navigation
 ---
 {% include JB/setup %}

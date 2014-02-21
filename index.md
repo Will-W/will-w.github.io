@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Opinionated Library
-tagline: Welcome
+tagline: by Will Wykeham
 ---
 {% include JB/setup %}
 
