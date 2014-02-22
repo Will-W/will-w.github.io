@@ -5,7 +5,7 @@ tagline: by Will Wykeham
 ---
 {% include JB/setup %}
 
-Conventional wisdom holds that "Writing is like a muscle", "you can get good at anything, you just need to practice".
+Conventional wisdom holds that "writing is like a muscle", "you can get good at anything, you just need to practice".
 Conventional wisdom is probably correct on this.
 My job title may be Consultant, but I am primarily a software engineer. Mostly I write code, and when I do write English it's generally a technical document.
 None of this gives me a lot of practice at writing the kind of fluid prose that is actually needed sometimes. Even this paragraph has taken a couple of attempts and some pausing.
