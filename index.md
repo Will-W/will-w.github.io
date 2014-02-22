@@ -19,8 +19,6 @@ To use another cliche: "Opinions are like arseholes: everyone's got one".
 Except that I don't have one, I've got hundreds (opinions obviously, not arseholes), and they're just waiting to be shared.
 I would actually quite like to keep some of my friends, so rather than haranguing them continually, you all get to benefit.
 
-Rather than inflict them on my friends who, to be honest, have enough to deal with from me, I'll spare them and pretend to myself that someone on the Internet might actually care.
-
 ---
 
 ## Posts
