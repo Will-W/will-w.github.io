@@ -6,6 +6,14 @@ group: navigation
 ---
 {% include JB/setup %}
 
+### Contact
+
+If you wish to comment on something I've written, or for any other reason, please address correspondence to:
+
+<will@opinionatedlibrary.com>
+
+----
+
 ### What do I do
 
 ####Short Answer:
