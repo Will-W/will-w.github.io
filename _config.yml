@@ -25,7 +25,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://will-w.github.io
+production_url : http://www.opinionatedlibrary.com
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -101,6 +101,7 @@ JB :
     provider : google 
     google : 
         tracking_id : 'UA-48320036-1'
+        property : 'opinionatedlibrary.com'
     getclicky :
       site_id : 
     mixpanel :
